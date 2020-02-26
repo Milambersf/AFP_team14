@@ -1,0 +1,143 @@
+esg_factor,pn,cate1,cate2,cate1_ana,cate2_ana
+alc_con_a,n,controversial,,controversial,
+alc_con_x,n,,,controversial,
+cgov_con_b,n,governance,,governance,
+cgov_con_f,n,governance,,governance,
+cgov_con_g,n,governance,,governance,
+cgov_con_h,n,governance,,governance,
+cgov_con_i,n,governance,,governance,
+cgov_con_j,n,governance,,governance,
+cgov_con_k,n,governance,,governance,
+cgov_con_l,n,governance,,governance,
+cgov_con_m,n,governance,,governance,
+cgov_con_x,n,governance,,governance,
+cgov_str_a,p,governance,,governance,
+cgov_str_c,p,governance,,governance,
+cgov_str_d,p,governance,,governance,
+cgov_str_e,p,governance,,governance,
+cgov_str_f,p,governance,,governance,
+cgov_str_g,p,governance,,governance,
+cgov_str_h,p,governance,,governance,
+cgov_str_x,p,governance,,governance,
+com_con_a,n,social,community,social,community
+com_con_b,n,social,community,social,community
+com_con_d,n,social,community,social,community
+com_con_x,n,social,community,social,community
+com_str_a,p,social,community,social,community
+com_str_b,p,social,community,social,community
+com_str_c,p,social,community,social,community
+com_str_d,p,social,community,social,community
+com_str_f,p,social,community,social,community
+com_str_g,p,social,community,social,community
+com_str_h,p,social,community,social,community
+com_str_x,p,social,community,social,community
+div_con_a,n,social,diversity,social,diversity
+div_con_b,n,social,diversity,social,diversity
+div_con_c,n,social,diversity,social,diversity
+div_con_d,n,social,diversity,social,diversity
+div_con_x,n,social,diversity,social,diversity
+div_str_a,p,social,diversity,social,diversity
+div_str_b,p,social,diversity,social,diversity
+div_str_c,p,social,diversity,social,diversity
+div_str_d,p,social,diversity,social,diversity
+div_str_e,p,social,diversity,social,diversity
+div_str_f,p,social,diversity,social,diversity
+div_str_g,p,social,diversity,social,diversity
+div_str_h,p,social,diversity,social,diversity
+div_str_x,p,social,diversity,social,diversity
+emp_con_a,n,social,employee relations,social,employee relations
+emp_con_b,n,social,employee relations,social,employee relations
+emp_con_c,n,social,employee relations,social,employee relations
+emp_con_d,n,social,employee relations,social,employee relations
+emp_con_f,n,social,employee relations,social,employee relations
+emp_con_g,n,social,employee relations,social,employee relations
+emp_con_h,n,social,employee relations,social,employee relations
+emp_con_x,n,social,employee relations,social,employee relations
+emp_str_a,p,social,employee relations,social,employee relations
+emp_str_b,p,social,employee relations,social,employee relations
+emp_str_c,p,social,employee relations,social,employee relations
+emp_str_d,p,social,employee relations,social,employee relations
+emp_str_f,p,social,employee relations,social,employee relations
+emp_str_g,p,social,employee relations,social,employee relations
+emp_str_h,p,social,employee relations,social,employee relations
+emp_str_i,p,social,employee relations,social,employee relations
+emp_str_j,p,social,employee relations,social,employee relations
+emp_str_k,p,social,employee relations,social,employee relations
+emp_str_l,p,social,employee relations,social,employee relations
+emp_str_m,p,social,employee relations,social,employee relations
+emp_str_n,p,social,employee relations,social,employee relations
+emp_str_x,p,social,employee relations,social,employee relations
+env_con_a,n,environment,,environment,
+env_con_b,n,environment,,environment,
+env_con_c,n,environment,,environment,
+env_con_d,n,environment,,environment,
+env_con_e,n,environment,,environment,
+env_con_f,n,environment,,environment,
+env_con_g,n,environment,,environment,
+env_con_h,n,environment,,environment,
+env_con_i,n,environment,,environment,
+env_con_j,n,environment,,environment,
+env_con_k,n,environment,,environment,
+env_con_x,n,environment,,environment,
+env_str_a,p,environment,,environment,
+env_str_b,p,environment,,environment,
+env_str_c,p,environment,,environment,
+env_str_d,p,environment,,environment,
+env_str_f,p,environment,,environment,
+env_str_g,p,environment,,environment,
+env_str_h,p,environment,,environment,
+env_str_i,p,environment,,environment,
+env_str_j,p,environment,,environment,
+env_str_k,p,environment,,environment,
+env_str_l,p,environment,,environment,
+env_str_m,p,environment,,environment,
+env_str_n,p,environment,,environment,
+env_str_o,p,environment,,environment,
+env_str_p,p,environment,,environment,
+env_str_q,p,environment,,environment,
+env_str_x,p,environment,,environment,
+fir_con_a,n,controversial,,controversial,
+gam_con_a,n,controversial,,controversial,
+gam_con_x,n,,,controversial,
+hum_con_a,n,social,human rights,social,human rights
+hum_con_b,n,social,human rights,social,human rights
+hum_con_c,n,social,human rights,social,human rights
+hum_con_d,n,social,human rights,social,human rights
+hum_con_f,n,social,human rights,social,human rights
+hum_con_g,n,social,human rights,social,human rights
+hum_con_h,n,social,human rights,social,human rights
+hum_con_j,n,social,human rights,social,human rights
+hum_con_k,n,social,human rights,social,human rights
+hum_con_x,n,social,human rights,social,human rights
+hum_str_a,p,social,human rights,social,human rights
+hum_str_d,p,social,human rights,social,human rights
+hum_str_g,p,social,human rights,social,human rights
+hum_str_x,p,social,human rights,social,human rights
+mil_con_a,n,controversial,,controversial,
+mil_con_b,n,,,controversial,
+mil_con_c,n,,,controversial,
+mil_con_x,n,,,controversial,
+nuc_con_a,n,controversial,,controversial,
+nuc_con_c,n,,,controversial,
+nuc_con_d,n,,,controversial,
+nuc_con_x,n,,,controversial,
+pro_con_a,n,social,product,social,product
+pro_con_d,n,social,product,social,product
+pro_con_e,n,social,product,social,product
+pro_con_f,n,social,product,social,product
+pro_con_g,n,,,social,product
+pro_con_x,n,social,product,social,product
+pro_str_a,p,social,product,social,product
+pro_str_b,p,social,product,social,product
+pro_str_c,p,social,product,social,product
+pro_str_d,p,social,product,social,product
+pro_str_e,p,social,product,social,product
+pro_str_f,p,social,product,social,product
+pro_str_g,p,social,product,social,product
+pro_str_h,p,social,product,social,product
+pro_str_i,p,social,product,social,product
+pro_str_j,p,social,product,social,product
+pro_str_k,p,social,product,social,product
+pro_str_x,p,social,product,social,product
+tob_con_a,n,controversial,,controversial,
+tob_con_x,n,,,controversial,
